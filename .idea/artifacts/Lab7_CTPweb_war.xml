@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lab7_CTPweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Lab7_CTPweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Lab7_CTPweb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lab7_CTPweb:war exploded" />
+    </root>
+  </artifact>
+</component>
